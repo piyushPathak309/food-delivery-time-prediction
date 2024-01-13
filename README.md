@@ -24,7 +24,7 @@ Python,Machine Learning,Sklearn,Pandas,Matplotlib,Seaborn,Numpy
 
 # Data Collection:
 
-I have gathered dataset from open government data website for this project.
+I have gathered dataset from UCI Machine Learning Repository for this project.
 
 # EDA:
 
